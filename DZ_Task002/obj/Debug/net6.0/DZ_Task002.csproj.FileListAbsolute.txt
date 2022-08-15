@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\bin\Debug\net6.0\DZ_Task002.exe
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\bin\Debug\net6.0\DZ_Task002.deps.json
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\bin\Debug\net6.0\DZ_Task002.runtimeconfig.json
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\bin\Debug\net6.0\DZ_Task002.dll
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\bin\Debug\net6.0\DZ_Task002.pdb
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.AssemblyInfo.cs
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.dll
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\refint\DZ_Task002.dll
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.pdb
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\DZ_Task002.genruntimeconfig.cache
+C:\Users\Данил\Desktop\C#sem_3\C-sem3\DZ_Task002\obj\Debug\net6.0\ref\DZ_Task002.dll
